@@ -1,0 +1,10 @@
+requests
+python-dotenv
+asyncpg
+psycopg
+psycopg[binary] 
+sqlalchemy
+pandas
+scikit-learn
+matplotlib
+tensorflow
